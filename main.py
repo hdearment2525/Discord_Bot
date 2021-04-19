@@ -1,3 +1,6 @@
+# Hunter DeArment Conner Botte
+
+
 import discord
 import os
 import smtplib
